@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Julian Fernando and I'm a Frontend Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! I'm a Frontend Developer from Indonesia.</h2>
 
 ###
 
