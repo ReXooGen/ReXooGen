@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://makeagif.com/gif/lonely-sad-and-crying-boy-anime-gif-aesthetic-anime-gif-sad-anime-gif-YxB5bk)"  />
+<img align="right" height="150" src="https://makeagif.com/gif/lonely-sad-and-crying-boy-anime-gif-aesthetic-anime-gif-sad-anime-gif-YxB5bk"  />
 
 ###
 
