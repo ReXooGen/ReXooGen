@@ -4,7 +4,7 @@
 
 <img align="right" height="80" src="1m7v0o2aibxd1.gif" />
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 - 🔭 I'm a **Frontend Developer** passionate about creating amazing user experiences
 - 🌱 Currently learning **Advanced React Patterns** and **Next.js**
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Statistics</h3>
+<h3 align="left">GitHub Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rexoogen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=15" height="150" alt="stats graph" />
@@ -91,7 +91,7 @@
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+<h3 align="left">GitHub Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rexoogen&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
@@ -99,7 +99,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left">Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julianfernando15/" target="_blank">
@@ -118,7 +118,7 @@
 
 ---
 
-<h3 align="left">🔥 Current Streak & Activity</h3>
+<h3 align="left">Current Streak & Activity</h3>
 
 <div align="center">
   <img src="https://github.com/ReXooGen/ReXooGen/blob/output/snake.svg" alt="Snake animation" />
