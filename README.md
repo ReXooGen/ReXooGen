@@ -3,24 +3,22 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Modern+Interfaces;React+%26+Next.js+Specialist;Passionate+Problem+Solver;Based+in+Indonesia+🇮🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+💻;React+%26+Next.js+Specialist;Passionate+Problem+Solver;Based+in+Indonesia+🇮🇩" alt="Typing SVG" />
 </div>
 
 <br/>
 
-### 👤 About Me
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReXooGen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
+### 💫 About Me
 - 🔭 **Working on**: High-performance web applications using React & TypeScript
 - 🌱 **Learning**: Mobile Development with React Native & System Design
 - 💬 **Ask me about**: CSS tricks, React performance, and clean code
 - 🚀 **Goal**: Contributing to impactful open-source projects
 - 📧 **Reach me**: [ajulian.fernando@gmail.com](mailto:ajulian.fernando@gmail.com)
 
-<br clear="both">
+<br/>
 
 ### 💻 Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,mongodb,mysql,git,vscode,figma,postman,npm,vercel,pnpm,vite&perline=10" />
   </a>
@@ -28,21 +26,42 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 🐍 Contribution Snake
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReXooGen&theme=tokyonight&hide_border=true&border_radius=10" height="195" alt="Streak" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+---
+
+### 🏆 GitHub Trophies
 <div align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=ReXooGen&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Stats & Languages
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats-lyart-theta.vercel.app/api?username=ReXooGen&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats-lyart-theta.vercel.app/api/top-langs?username=ReXooGen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<div align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReXooGen&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
-
 
 ---
 
