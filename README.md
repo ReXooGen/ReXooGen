@@ -13,7 +13,6 @@
 - 🌱 **Learning**: Mobile Development with React Native & System Design
 - 💬 **Ask me about**: CSS tricks, React performance, and clean code
 - 🚀 **Goal**: Contributing to impactful open-source projects
-- 📧 **Reach me**: [ajulian.fernando@gmail.com](mailto:ajulian.fernando@gmail.com)
 
 <br/>
 
