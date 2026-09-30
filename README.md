@@ -64,13 +64,6 @@
 
 ---
 
-### 🤝 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/julianfernando15/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/liiiaaannn___/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/@Liiiaann_" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="mailto:ajulian.fernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
 
 <br/>
 
