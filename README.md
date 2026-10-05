@@ -7,8 +7,6 @@
   Hi, I'm ReXooGen
 </h1>
  
-<h3>Frontend Developer • React & Next.js Specialist</h3>
- 
 <a href="https://github.com/ReXooGen">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Crafting+pixels+into+experiences+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript+%F0%9F%9A%80;Open+source+enthusiast+%F0%9F%92%96" alt="Typing SVG" />
 </a>
