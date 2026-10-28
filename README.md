@@ -1,57 +1,112 @@
-<p align="center">
-  <img src="./assets/profile/hero.png" width="100%" alt="ReXooGen. Frontend developer. High-performance web apps with React, Next.js, and TypeScript.">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ReXooGen?tab=repositories"><strong>Explore my repositories</strong></a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/ReXooGen?tab=stars">Things I'm exploring</a>
-</p>
+# ReXooGen
 
-<br>
+**Frontend developer. Small details, better interfaces.**
 
-## A little about me
+React · Next.js · TypeScript
 
-I build with **React, Next.js, and TypeScript**, with a focus on fast web apps and the small details that make an interface feel good to use. Right now, I'm exploring **React Native** and **system design**, and looking for useful ways to contribute to open source.
+[About](#about) &nbsp; / &nbsp; [Selected work](#selected-work) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Connect](#connect)
 
-<p align="center">
-  <img src="./assets/profile/profile-code.png" width="400" alt="About ReXooGen: frontend development, learning React Native and system design, and contributing to open source.">
-  &nbsp;
-  <img src="./assets/profile/focus-poster.png" width="400" alt="Build. Refine. Repeat. React performance, CSS details, clean code, and useful contributions.">
-</p>
+</div>
 
-<br>
+---
 
-## The tools behind the work
+## About
 
-From the first Figma layout to the deployed interface.
+I build high-performance web apps with **React, Next.js, and TypeScript**. I care about thoughtful CSS, clear layouts, and interactions that feel right.
 
-<p align="center">
-  <img src="./assets/profile/frontend.png" width="268" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Sass, and Vite.">
-  &nbsp;
-  <img src="./assets/profile/backend.png" width="268" alt="Backend and data: Node.js, Express, MongoDB, and MySQL.">
-  &nbsp;
-  <img src="./assets/profile/workflow.png" width="268" alt="Workflow: Git, GitHub, Figma, Postman, npm, pnpm, Vercel, and VS Code.">
-</p>
+<details open>
+<summary><strong>profile.ts</strong> — the short version</summary>
 
-<br>
+```ts
+const rexoogen = {
+  role: "Frontend developer",
+  stack: ["React", "Next.js", "TypeScript"],
+  focus: "High-performance web apps",
+  learning: ["React Native", "System design"],
+  mission: "Contribute to open source",
+  debugger: "console.log",
+} as const;
+```
 
-## One contribution at a time
+</details>
 
-Learning by building, and giving something back along the way.
+**Currently exploring:** React Native and system design.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/ReXooGen/ReXooGen/output/github-contribution-grid-snake.svg" width="100%" alt="ReXooGen's animated GitHub contribution grid.">
-</picture>
+## Selected work
 
-<br>
+### [Terra-Layout](https://github.com/ReXooGen/Terra-Layout)
 
-<a href="https://github.com/ReXooGen?tab=repositories">
-  <img src="./assets/profile/contact.png" width="100%" alt="Let's build something thoughtful. Explore my repositories on GitHub.">
-</a>
+A cartography and world-building RPG made with **HTML5 Canvas and Vite**, with dynamic trade routes, dungeon bosses, and a real-time market chart.
 
-<p align="center">
-  <sub>Still debugging with <code>console.log</code>. Still making it better.</sub>
-</p>
+[Explore the code](https://github.com/ReXooGen/Terra-Layout) · [Browse commits](https://github.com/ReXooGen/Terra-Layout/commits)
+
+### [enowX — my fork](https://github.com/ReXooGen/enowx)
+
+Work on **Canvas workflows and desktop UI**, including connectors, agent activity controls, and the Canvas chat experience.
+
+[Explore the fork](https://github.com/ReXooGen/enowx) · [Canvas feature branch](https://github.com/ReXooGen/enowx/tree/feat/canvas-workflow)
+
+<details>
+<summary><strong>More to explore</strong> — repositories and bookmarks</summary>
+
+- [All my repositories](https://github.com/ReXooGen?tab=repositories)
+- [Projects I've starred](https://github.com/ReXooGen?tab=stars)
+
+</details>
+
+## Toolkit
+
+My everyday core: **React · Next.js · TypeScript · CSS**.
+
+<details>
+<summary><strong>Frontend & languages</strong> — open the toolbox</summary>
+
+| Purpose | Tools |
+| :--- | :--- |
+| Languages | TypeScript, JavaScript, HTML, CSS |
+| Interfaces | React, Next.js |
+| Styling | Tailwind CSS, Sass |
+| Development | Vite |
+
+</details>
+
+<details>
+<summary><strong>Backend & data</strong> — behind the interface</summary>
+
+| Purpose | Tools |
+| :--- | :--- |
+| Runtime & APIs | Node.js, Express |
+| Databases | MongoDB, MySQL |
+
+</details>
+
+<details>
+<summary><strong>Workflow</strong> — from layout to deployment</summary>
+
+| Purpose | Tools |
+| :--- | :--- |
+| Version control | Git, GitHub |
+| Design & editor | Figma, VS Code |
+| API testing | Postman |
+| Packages | npm, pnpm |
+| Deployment | Vercel |
+
+</details>
+
+## Connect
+
+**CSS details, React performance, clean code, or open source?** Those are conversations I'm here for.
+
+[Explore my repositories](https://github.com/ReXooGen?tab=repositories) · [Follow my work](https://github.com/ReXooGen)
+
+---
+
+<div align="center">
+
+<sub>Still debugging with <code>console.log</code>. Still making it better.</sub>
+
+[Back to top](#rexoogen)
+
+</div>
