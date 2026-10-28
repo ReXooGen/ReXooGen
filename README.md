@@ -36,6 +36,38 @@ From the first Figma layout to the deployed interface.
 
 <br>
 
+## GitHub in numbers
+
+<p align="center">
+  <a href="https://github.com/ReXooGen?tab=overview">
+    <img src="./assets/profile/github-stats.svg" width="400" alt="Public GitHub activity: stars, commits, pull requests, issues, and repositories contributed to.">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ReXooGen?tab=repositories">
+    <img src="./assets/profile/github-languages.svg" width="400" alt="Most-used languages across public repositories.">
+  </a>
+</p>
+
+<p align="center"><sub>Refreshed daily from public GitHub data. Repository languages describe code distribution, not proficiency.</sub></p>
+
+<br>
+
+## Achievements
+
+<p align="center">
+  <a href="https://github.com/ReXooGen?achievement=pull-shark&amp;tab=achievements">
+    <img src="./assets/profile/achievement-pull-shark.png" width="112" alt="Pull Shark — earned GitHub achievement.">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ReXooGen?achievement=yolo&amp;tab=achievements">
+    <img src="./assets/profile/achievement-yolo.png" width="112" alt="YOLO — earned GitHub achievement.">
+  </a>
+</p>
+
+<p align="center"><strong>Pull Shark</strong> &nbsp; · &nbsp; <strong>YOLO</strong><br><sub>Select a badge to view the achievement on GitHub.</sub></p>
+
+<br>
+
 ## One contribution at a time
 
 Learning by building, and giving something back along the way.
