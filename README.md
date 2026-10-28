@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile/hero.png" width="100%" alt="ReXooGen. Frontend developer. High-performance web apps with React, Next.js, and TypeScript.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile/hero.png">
+    <img src="./assets/profile/hero.gif" width="100%" alt="ReXooGen. Frontend developer. High-performance web apps with React, Next.js, and TypeScript.">
+  </picture>
 </p>
 
 <p align="center">
